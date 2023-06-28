@@ -1,2 +1,7 @@
+<div align="center"> 
+<img src="Assets/Lock_256.png">
+  
 # GhostShield
-GhostShield is a powerful obfuscator designed to protect your source code and intellectual property.
+
+**GhostShield** is designed to shield your code from unauthorized access and reverse engineering attempts.
+</div>
